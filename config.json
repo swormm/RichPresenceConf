@@ -8,12 +8,12 @@
   "streamURL": "https://twitch.com/A",
   "party": {
     "size": {
-      "current": null,
-      "max": null
+      "current": 1000000000000000000000,
+      "max": 10000000000000000
     }
   },
   "setLocalTime": false,
-  "timezone": "<TIMEZONE>",
+  "timezone": "",
   "startTimeStamp": null,
   "endTimeStamp": null,
   "assets": {
