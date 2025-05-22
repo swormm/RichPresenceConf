@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/thecats1105/discord-rpc-selfbot/refs/heads/main/config.schema.json",
   "APPLICATION_ID": "1375105736333459526",
-  "type": "watching",
+  "type": "WATCHING",
   "name": "Pense a mbb",
   "details": "💍",
   "state": "",
@@ -9,7 +9,7 @@
   "party": {
     "size": {
       "current": 1000000000,
-      "max": 100000000000000000000000000000000000
+      "max": 1000000000000000000
     }
   },
   "setLocalTime": false,
@@ -32,5 +32,5 @@
       "url": "https://discord.gg/recursiaa"
     }
   ],
-  "refreshInterval": null
+  "refreshInterval": 10
 }
