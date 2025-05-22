@@ -8,14 +8,14 @@
   "streamURL": "https://twitch.com/A",
   "party": {
     "size": {
-      "current": 1000000000000000000000,
-      "max": 10000000000000000
+      "current": 1000000000,
+      "max": 100000000000000000000000000000000000
     }
   },
   "setLocalTime": false,
-  "timezone": "",
-  "startTimeStamp": null,
-  "endTimeStamp": null,
+  "timezone": "<TIMEZONE>",
+  "startTimeStamp": 1000,
+  "endTimeStamp": 1000000,
   "assets": {
     "large_image": "coeur",
     "large_text": "Coeur pr le A",
