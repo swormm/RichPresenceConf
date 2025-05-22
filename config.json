@@ -1,0 +1,36 @@
+{
+  "$schema": "https://raw.githubusercontent.com/thecats1105/discord-rpc-selfbot/refs/heads/main/config.schema.json",
+  "APPLICATION_ID": "1375105736333459526",
+  "type": "watching",
+  "name": "Pense a mbb",
+  "details": "💍",
+  "state": "",
+  "streamURL": "https://twitch.com/A",
+  "party": {
+    "size": {
+      "current": null,
+      "max": null
+    }
+  },
+  "setLocalTime": false,
+  "timezone": "<TIMEZONE>",
+  "startTimeStamp": null,
+  "endTimeStamp": null,
+  "assets": {
+    "large_image": "coeur",
+    "large_text": "Coeur pr le A",
+    "small_image": "baguette_3",
+    "small_text": "C une baguette"
+  },
+  "buttons": [
+    {
+      "label": "Join us",
+      "url": "https://discord.gg/recursiaa"
+    },
+    {
+      "label": "#Soon",
+      "url": "https://discord.gg/recursiaa"
+    }
+  ],
+  "refreshInterval": null
+}
